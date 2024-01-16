@@ -1,4 +1,4 @@
-# Проект Просепт:
+# Проект Платформа для онлайн-бронирования услуг фотографов и видеоператоров:
 [![MSPP CI/CD](https://github.com/photo-booking/backend/actions/workflows/trigger_to_main_repo.yml/badge.svg)](https://github.com/photo-booking/backend/actions/workflows/trigger_to_main_repo.yml/badge.svg)
 
 Цель проекта - 
